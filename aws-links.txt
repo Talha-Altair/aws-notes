@@ -1,0 +1,17 @@
+Links:
+
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html
+
+https://aws.amazon.com/cloudformation/faqs/
+
+https://docs.aws.amazon.com/cloudformation/index.html
+
+https://aws.amazon.com/cloudformation/getting-started/
+
+https://aws.amazon.com/cloudformation/features/
+
+Video Links:
+
+https://youtu.be/0Sh9OySCyb4
+
+https://youtu.be/ulprqHHWlng
